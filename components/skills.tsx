@@ -70,7 +70,7 @@ export function Skills() {
     {
       title: "Comunicación Efectiva",
       icon: MessageSquare,
-      color: "destructive", // Un tono de rojo más suave
+      color: "destructive", // 
       skills: [
         "Presentaciones Técnicas",
         "Documentación Clara",

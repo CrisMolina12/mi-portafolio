@@ -73,7 +73,7 @@ export function Hero() {
             Contactar
           </Link>
           <Link
-            href="/CV_CRISTIAN.PDF"
+            href="/CV_CRISTIAN.pdf"
             download="CV_CRISTIAN.PDF"
             className="flex items-center gap-2 bg-foreground text-background px-8 py-3 rounded-full hover:bg-foreground/90 transition-all duration-300 font-semibold shadow-sm hover:shadow-md transform hover:-translate-y-1"
           >
